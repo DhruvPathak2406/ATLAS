@@ -26,9 +26,9 @@ controller_server:
       batch_size: 1000
       vx_std: 0.15
       wz_std: 0.30
-      vx_max: 0.22
+      vx_max: 0.6
       vx_min: -0.10
-      wz_max: 1.2
+      wz_max: 2.5
       ax_max: 1.0
       ax_min: -1.0
       az_max: 2.0

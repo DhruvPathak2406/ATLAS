@@ -120,12 +120,12 @@
     <include>
       <uri>model://rubble</uri>
       <name>rubble_west_choke</name>
-      <pose>-3.0 -0.1 0 0 0 0.25</pose>
+      <pose>-2.1 0.6 0 0 0 0.25</pose>
     </include>
     <include>
       <uri>model://debris</uri>
       <name>debris_west_flank</name>
-      <pose>-3.0 -1.0 0 0 0 -0.4</pose>
+      <pose>-2.3 -1.3 0 0 0 -0.4</pose>
     </include>
 
     <!-- Central obstacle field blocking straight trajectory -->
@@ -164,7 +164,7 @@
     <include>
       <uri>model://rubble</uri>
       <name>rubble_east_constriction</name>
-      <pose>3.5 1.7 0 0 0 1.57</pose>
+      <pose>2.6 1.2 0 0 0 1.57</pose>
     </include>
     <include>
       <uri>model://debris</uri>

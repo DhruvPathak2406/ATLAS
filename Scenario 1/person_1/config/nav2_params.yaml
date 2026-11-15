@@ -16,3 +16,7 @@ planner_server:
       tolerance: 0.45
       use_astar: true
       allow_unknown: true
+
+lifecycle_manager_navigation:
+  ros__parameters:
+    bond_timeout: 0.0
