@@ -20,7 +20,7 @@ The core objective of this project is to simulate, evaluate, and extend intellig
 3. **Task 3 — Custom Real-World Simulation Scenarios:** Design and implement custom maps with modified robot start/goal coordinates and dynamic pedestrian flows (e.g., an autonomous shopping mall guidance/bag-carrying assistant robot).
 
 ### Team Members
-*(Update with your group members' names and roll numbers)*
+
 * **Member 1:** Dhruv Pathak - U24CS018
 * **Member 2:** Khushboo - U24CS03
 * **Member 3:** Sneha Kumari - U24CS046
