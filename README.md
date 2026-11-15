@@ -22,10 +22,10 @@ The core objective of this project is to simulate, evaluate, and extend intellig
 ### Team Members
 
 * **Member 1:** Dhruv Pathak - U24CS018
-* **Member 2:** Khushboo - U24CS03
+* **Member 2:** Khushboo - U24CS038
 * **Member 3:** Sneha Kumari - U24CS046
 * **Member 3:** Meet - U24CS0
-* **Member 3:** Drashti  - U24CS0
+* **Member 3:** Drashti  - U24CS067
 
 ---
 
