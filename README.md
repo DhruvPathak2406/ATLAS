@@ -24,8 +24,8 @@ The core objective of this project is to simulate, evaluate, and extend intellig
 * **Member 1:** Dhruv Pathak - U24CS018
 * **Member 2:** Khushboo - U24CS038
 * **Member 3:** Sneha Kumari - U24CS046
-* **Member 3:** Meet - U24CS063
-* **Member 3:** Drashti  - U24CS067
+* **Member 4:** Meet - U24CS063
+* **Member 5:** Drashti  - U24CS067
 
 ---
 
