@@ -1,0 +1,23 @@
+[1.721s] Invoking command in '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/person_2': PYTHONPATH=/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/atlas_person_2 build --build-base /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/build install --record /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/install.log --install-scripts $base/lib/atlas_person_2 --single-version-externally-managed install_data
+[2.461s] running egg_info
+[2.486s] writing ../build/atlas_person_2/atlas_person_2.egg-info/PKG-INFO
+[2.520s] writing dependency_links to ../build/atlas_person_2/atlas_person_2.egg-info/dependency_links.txt
+[2.529s] writing entry points to ../build/atlas_person_2/atlas_person_2.egg-info/entry_points.txt
+[2.537s] writing requirements to ../build/atlas_person_2/atlas_person_2.egg-info/requires.txt
+[2.550s] writing top-level names to ../build/atlas_person_2/atlas_person_2.egg-info/top_level.txt
+[2.677s] reading manifest file '../build/atlas_person_2/atlas_person_2.egg-info/SOURCES.txt'
+[2.798s] writing manifest file '../build/atlas_person_2/atlas_person_2.egg-info/SOURCES.txt'
+[2.801s] running build
+[2.802s] running build_py
+[2.898s] running install
+[2.907s] running install_lib
+[3.171s] running install_data
+[3.430s] running install_egg_info
+[3.467s] removing '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages/atlas_person_2-0.1.0-py3.12.egg-info' (and everything under it)
+[3.539s] Copying ../build/atlas_person_2/atlas_person_2.egg-info to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages/atlas_person_2-0.1.0-py3.12.egg-info
+[3.832s] running install_scripts
+[4.099s] Installing dynamic_obstacle script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2
+[4.152s] Installing mission_2_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2
+[4.178s] Installing mission_3_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2
+[4.202s] writing list of installed files to '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/install.log'
+[4.231s] Invoked command in '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/person_2' returned '0': PYTHONPATH=/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/atlas_person_2 build --build-base /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/build install --record /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/install.log --install-scripts $base/lib/atlas_person_2 --single-version-externally-managed install_data

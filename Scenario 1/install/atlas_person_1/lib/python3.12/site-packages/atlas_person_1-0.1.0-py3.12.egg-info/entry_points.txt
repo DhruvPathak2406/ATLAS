@@ -1,0 +1,2 @@
+[console_scripts]
+mission_1_goal = atlas_person_1.mission_1_goal:main
