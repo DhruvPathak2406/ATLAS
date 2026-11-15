@@ -1,0 +1,121 @@
+[0.000000] (-) TimerEvent: {}
+[0.000419] (atlas_person_1) JobQueued: {'identifier': 'atlas_person_1', 'dependencies': OrderedDict()}
+[0.000804] (atlas_person_1) JobStarted: {'identifier': 'atlas_person_1'}
+[0.098256] (-) TimerEvent: {}
+[0.200965] (-) TimerEvent: {}
+[0.302120] (-) TimerEvent: {}
+[0.403548] (-) TimerEvent: {}
+[0.504575] (-) TimerEvent: {}
+[0.606066] (-) TimerEvent: {}
+[0.707574] (-) TimerEvent: {}
+[0.808630] (-) TimerEvent: {}
+[0.910004] (-) TimerEvent: {}
+[1.010657] (-) TimerEvent: {}
+[1.111971] (-) TimerEvent: {}
+[1.213589] (-) TimerEvent: {}
+[1.314613] (-) TimerEvent: {}
+[1.415002] (-) TimerEvent: {}
+[1.515613] (-) TimerEvent: {}
+[1.616839] (-) TimerEvent: {}
+[1.718264] (-) TimerEvent: {}
+[1.819496] (-) TimerEvent: {}
+[1.921232] (-) TimerEvent: {}
+[2.022207] (-) TimerEvent: {}
+[2.111481] (atlas_person_1) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/atlas_person_1', 'build', '--build-base', '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build', 'install', '--record', '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/install.log', '--install-scripts', '$base/lib/atlas_person_1', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/person_1', 'env': OrderedDict({'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'drashtisingh14', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/drashtisingh14', 'OLDPWD': '/mnt/c/Users/drash/ATLAS_AIR', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'drashtisingh14', 'NAME': 'DESKTOP-3CO93UF', 'WSL_INTEROP': '/run/WSL/1946_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Users/drash/.gemini/antigravity/bin:/mnt/c/Users/drash/AppData/Roaming/Antigravity/bin:/mnt/c/Program Files/Eclipse Adoptium/jdk-25.0.2.10-hotspot/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/MinGW/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Git/mingw64/bin:/mnt/c/Program Files/Git/usr/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/cursor/resources/app/bin:/mnt/c/Program Files/nodejs/:/mnt/c/src/flutter/bin:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Users/drash/.cargo/bin:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/drash/AppData/Local/Programs/Trae/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python313/Scripts/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python313/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Launcher/:/mnt/c/Users/drash/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/drash/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/PostgreSQL/18/bin:/mnt/c/Users/drash/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/drash/AppData/Roaming/npm:/mnt/c/Users/drash/AppData/Local/Programs/Windsurf/bin:/mnt/c/Users/drash/AppData/Local/Programs/Antigravity/bin:/mnt/c/Users/drash/AppData/Local/Google/Cloud SDK/google-cloud-sdk/bin:/mnt/c/Program Files (x86)/Nmap:/mnt/c/Users/drash/AppData/Local/Programs/Antigravity IDE/bin:/mnt/c/Users/drash/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.1.2-full_build/bin:/mnt/c/Users/drash/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'C.UTF-8', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'SHELL': '/bin/bash', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1', 'PYTHONPATH': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages:/opt/ros/jazzy/opt/gz_sim_vendor/lib/python:/opt/ros/jazzy/opt/sdformat_vendor/lib/python:/opt/ros/jazzy/opt/gz_transport_vendor/lib/python:/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python:/opt/ros/jazzy/opt/gz_math_vendor/lib/python:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'WSLENV': ''}), 'shell': False}
+[2.124360] (-) TimerEvent: {}
+[2.224750] (-) TimerEvent: {}
+[2.325182] (-) TimerEvent: {}
+[2.425918] (-) TimerEvent: {}
+[2.526479] (-) TimerEvent: {}
+[2.627092] (-) TimerEvent: {}
+[2.727550] (-) TimerEvent: {}
+[2.827891] (-) TimerEvent: {}
+[2.855778] (atlas_person_1) StdoutLine: {'line': b'running egg_info\n'}
+[2.860298] (atlas_person_1) StdoutLine: {'line': b'creating ../build/atlas_person_1/atlas_person_1.egg-info\n'}
+[2.880918] (atlas_person_1) StdoutLine: {'line': b'writing ../build/atlas_person_1/atlas_person_1.egg-info/PKG-INFO\n'}
+[2.898717] (atlas_person_1) StdoutLine: {'line': b'writing dependency_links to ../build/atlas_person_1/atlas_person_1.egg-info/dependency_links.txt\n'}
+[2.905367] (atlas_person_1) StdoutLine: {'line': b'writing entry points to ../build/atlas_person_1/atlas_person_1.egg-info/entry_points.txt\n'}
+[2.911445] (atlas_person_1) StdoutLine: {'line': b'writing requirements to ../build/atlas_person_1/atlas_person_1.egg-info/requires.txt\n'}
+[2.916710] (atlas_person_1) StdoutLine: {'line': b'writing top-level names to ../build/atlas_person_1/atlas_person_1.egg-info/top_level.txt\n'}
+[2.927801] (atlas_person_1) StdoutLine: {'line': b"writing manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'\n"}
+[2.929928] (-) TimerEvent: {}
+[3.030370] (-) TimerEvent: {}
+[3.041190] (atlas_person_1) StdoutLine: {'line': b"reading manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'\n"}
+[3.130522] (-) TimerEvent: {}
+[3.132767] (atlas_person_1) StdoutLine: {'line': b"writing manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'\n"}
+[3.138060] (atlas_person_1) StdoutLine: {'line': b'running build\n'}
+[3.140769] (atlas_person_1) StdoutLine: {'line': b'running build_py\n'}
+[3.149511] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build\n'}
+[3.152713] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib\n'}
+[3.157071] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1\n'}
+[3.170704] (atlas_person_1) StdoutLine: {'line': b'copying atlas_person_1/goal_common.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1\n'}
+[3.205129] (atlas_person_1) StdoutLine: {'line': b'copying atlas_person_1/launch_utils.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1\n'}
+[3.230741] (-) TimerEvent: {}
+[3.239013] (atlas_person_1) StdoutLine: {'line': b'copying atlas_person_1/mission_1_goal.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1\n'}
+[3.274162] (atlas_person_1) StdoutLine: {'line': b'copying atlas_person_1/__init__.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1\n'}
+[3.294782] (atlas_person_1) StdoutLine: {'line': b'running install\n'}
+[3.305446] (atlas_person_1) StdoutLine: {'line': b'running install_lib\n'}
+[3.330905] (-) TimerEvent: {}
+[3.355566] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1\n'}
+[3.376693] (atlas_person_1) StdoutLine: {'line': b'copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/goal_common.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1\n'}
+[3.426210] (atlas_person_1) StdoutLine: {'line': b'copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/launch_utils.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1\n'}
+[3.431033] (-) TimerEvent: {}
+[3.471064] (atlas_person_1) StdoutLine: {'line': b'copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/mission_1_goal.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1\n'}
+[3.514747] (atlas_person_1) StdoutLine: {'line': b'copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/__init__.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1\n'}
+[3.531171] (-) TimerEvent: {}
+[3.559083] (atlas_person_1) StdoutLine: {'line': b'byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/goal_common.py to goal_common.cpython-312.pyc\n'}
+[3.608091] (atlas_person_1) StdoutLine: {'line': b'byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/launch_utils.py to launch_utils.cpython-312.pyc\n'}
+[3.631254] (-) TimerEvent: {}
+[3.667702] (atlas_person_1) StdoutLine: {'line': b'byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/mission_1_goal.py to mission_1_goal.cpython-312.pyc\n'}
+[3.728658] (atlas_person_1) StdoutLine: {'line': b'byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/__init__.py to __init__.cpython-312.pyc\n'}
+[3.731362] (-) TimerEvent: {}
+[3.769969] (atlas_person_1) StdoutLine: {'line': b'running install_data\n'}
+[3.778581] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index\n'}
+[3.781737] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index\n'}
+[3.785303] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index/packages\n'}
+[3.799812] (atlas_person_1) StdoutLine: {'line': b'copying resource/atlas_person_1 -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index/packages\n'}
+[3.831300] (atlas_person_1) StdoutLine: {'line': b'copying package.xml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1\n'}
+[3.832469] (-) TimerEvent: {}
+[3.860365] (atlas_person_1) StdoutLine: {'line': b'copying README.md -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1\n'}
+[3.886050] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[3.900334] (atlas_person_1) StdoutLine: {'line': b'copying config/controller.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[3.930494] (atlas_person_1) StdoutLine: {'line': b'copying config/gazebo_bridge.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[3.932905] (-) TimerEvent: {}
+[3.962184] (atlas_person_1) StdoutLine: {'line': b'copying config/global_costmap.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[3.991084] (atlas_person_1) StdoutLine: {'line': b'copying config/nav2_params.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[4.021324] (atlas_person_1) StdoutLine: {'line': b'copying config/sensor_params.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config\n'}
+[4.033031] (-) TimerEvent: {}
+[4.050497] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/launch\n'}
+[4.063750] (atlas_person_1) StdoutLine: {'line': b'copying launch/mission_1.launch.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/launch\n'}
+[4.090392] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models\n'}
+[4.093147] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris\n'}
+[4.108117] (atlas_person_1) StdoutLine: {'line': b'copying models/debris/model.config -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris\n'}
+[4.133192] (-) TimerEvent: {}
+[4.145040] (atlas_person_1) StdoutLine: {'line': b'copying models/debris/model.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris\n'}
+[4.176567] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble\n'}
+[4.190550] (atlas_person_1) StdoutLine: {'line': b'copying models/rubble/model.config -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble\n'}
+[4.225201] (atlas_person_1) StdoutLine: {'line': b'copying models/rubble/model.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble\n'}
+[4.233295] (-) TimerEvent: {}
+[4.254374] (atlas_person_1) StdoutLine: {'line': b'creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/worlds\n'}
+[4.265130] (atlas_person_1) StdoutLine: {'line': b'copying worlds/rubble_run.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/worlds\n'}
+[4.285702] (atlas_person_1) StdoutLine: {'line': b'running install_egg_info\n'}
+[4.326924] (atlas_person_1) StdoutLine: {'line': b'Copying ../build/atlas_person_1/atlas_person_1.egg-info to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1-0.1.0-py3.12.egg-info\n'}
+[4.333449] (-) TimerEvent: {}
+[4.433753] (-) TimerEvent: {}
+[4.534291] (-) TimerEvent: {}
+[4.634615] (-) TimerEvent: {}
+[4.652487] (atlas_person_1) StdoutLine: {'line': b'running install_scripts\n'}
+[4.734708] (-) TimerEvent: {}
+[4.835292] (-) TimerEvent: {}
+[4.935721] (-) TimerEvent: {}
+[4.942661] (atlas_person_1) StdoutLine: {'line': b'Installing mission_1_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/atlas_person_1\n'}
+[4.959849] (atlas_person_1) StdoutLine: {'line': b"writing list of installed files to '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/install.log'\n"}
+[5.006140] (atlas_person_1) CommandEnded: {'returncode': 0}
+[5.036053] (-) TimerEvent: {}
+[5.137732] (-) TimerEvent: {}
+[5.238564] (-) TimerEvent: {}
+[5.340695] (-) TimerEvent: {}
+[5.442764] (-) TimerEvent: {}
+[5.544811] (-) TimerEvent: {}
+[5.606014] (atlas_person_1) JobEnded: {'identifier': 'atlas_person_1', 'rc': 0}
+[5.618240] (-) EventReactorShutdown: {}

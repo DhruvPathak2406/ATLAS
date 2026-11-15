@@ -1,0 +1,59 @@
+running egg_info
+creating ../build/atlas_person_1/atlas_person_1.egg-info
+writing ../build/atlas_person_1/atlas_person_1.egg-info/PKG-INFO
+writing dependency_links to ../build/atlas_person_1/atlas_person_1.egg-info/dependency_links.txt
+writing entry points to ../build/atlas_person_1/atlas_person_1.egg-info/entry_points.txt
+writing requirements to ../build/atlas_person_1/atlas_person_1.egg-info/requires.txt
+writing top-level names to ../build/atlas_person_1/atlas_person_1.egg-info/top_level.txt
+writing manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'
+reading manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'
+writing manifest file '../build/atlas_person_1/atlas_person_1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1
+copying atlas_person_1/goal_common.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1
+copying atlas_person_1/launch_utils.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1
+copying atlas_person_1/mission_1_goal.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1
+copying atlas_person_1/__init__.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1
+running install
+running install_lib
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1
+copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/goal_common.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1
+copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/launch_utils.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1
+copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/mission_1_goal.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1
+copying /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/build/lib/atlas_person_1/__init__.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1
+byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/goal_common.py to goal_common.cpython-312.pyc
+byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/launch_utils.py to launch_utils.cpython-312.pyc
+byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/mission_1_goal.py to mission_1_goal.cpython-312.pyc
+byte-compiling /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index/packages
+copying resource/atlas_person_1 -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/ament_index/resource_index/packages
+copying package.xml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1
+copying README.md -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+copying config/controller.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+copying config/gazebo_bridge.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+copying config/global_costmap.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+copying config/nav2_params.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+copying config/sensor_params.yaml -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/config
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/launch
+copying launch/mission_1.launch.py -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/launch
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris
+copying models/debris/model.config -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris
+copying models/debris/model.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/debris
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble
+copying models/rubble/model.config -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble
+copying models/rubble/model.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/models/rubble
+creating /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/worlds
+copying worlds/rubble_run.sdf -> /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/share/atlas_person_1/worlds
+running install_egg_info
+Copying ../build/atlas_person_1/atlas_person_1.egg-info to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/python3.12/site-packages/atlas_person_1-0.1.0-py3.12.egg-info
+running install_scripts
+Installing mission_1_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/install/atlas_person_1/lib/atlas_person_1
+writing list of installed files to '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 1/build/atlas_person_1/install.log'

@@ -1,0 +1,75 @@
+[0.000000] (-) TimerEvent: {}
+[0.000412] (atlas_person_2) JobQueued: {'identifier': 'atlas_person_2', 'dependencies': OrderedDict()}
+[0.000664] (atlas_person_2) JobStarted: {'identifier': 'atlas_person_2'}
+[0.097907] (-) TimerEvent: {}
+[0.198552] (-) TimerEvent: {}
+[0.299045] (-) TimerEvent: {}
+[0.399688] (-) TimerEvent: {}
+[0.500122] (-) TimerEvent: {}
+[0.600513] (-) TimerEvent: {}
+[0.701216] (-) TimerEvent: {}
+[0.801651] (-) TimerEvent: {}
+[0.902300] (-) TimerEvent: {}
+[1.002927] (-) TimerEvent: {}
+[1.103542] (-) TimerEvent: {}
+[1.203984] (-) TimerEvent: {}
+[1.304648] (-) TimerEvent: {}
+[1.405247] (-) TimerEvent: {}
+[1.505658] (-) TimerEvent: {}
+[1.606362] (-) TimerEvent: {}
+[1.703415] (atlas_person_2) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/atlas_person_2', 'build', '--build-base', '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/build', 'install', '--record', '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/install.log', '--install-scripts', '$base/lib/atlas_person_2', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/person_2', 'env': OrderedDict({'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'drashtisingh14', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/drashtisingh14', 'OLDPWD': '/mnt/c/Users/drash/ATLAS_AIR', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'drashtisingh14', 'NAME': 'DESKTOP-3CO93UF', 'WSL_INTEROP': '/run/WSL/1969_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Users/drash/.gemini/antigravity/bin:/mnt/c/Users/drash/AppData/Roaming/Antigravity/bin:/mnt/c/Program Files/Eclipse Adoptium/jdk-25.0.2.10-hotspot/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/MinGW/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Git/mingw64/bin:/mnt/c/Program Files/Git/usr/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/cursor/resources/app/bin:/mnt/c/Program Files/nodejs/:/mnt/c/src/flutter/bin:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Users/drash/.cargo/bin:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/drash/AppData/Local/Programs/Trae/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python313/Scripts/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Python313/:/mnt/c/Users/drash/AppData/Local/Programs/Python/Launcher/:/mnt/c/Users/drash/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/drash/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/PostgreSQL/18/bin:/mnt/c/Users/drash/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/drash/AppData/Roaming/npm:/mnt/c/Users/drash/AppData/Local/Programs/Windsurf/bin:/mnt/c/Users/drash/AppData/Local/Programs/Antigravity/bin:/mnt/c/Users/drash/AppData/Local/Google/Cloud SDK/google-cloud-sdk/bin:/mnt/c/Program Files (x86)/Nmap:/mnt/c/Users/drash/AppData/Local/Programs/Antigravity IDE/bin:/mnt/c/Users/drash/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.1.2-full_build/bin:/mnt/c/Users/drash/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'C.UTF-8', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'SHELL': '/bin/bash', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2', 'PYTHONPATH': '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages:/opt/ros/jazzy/opt/gz_sim_vendor/lib/python:/opt/ros/jazzy/opt/sdformat_vendor/lib/python:/opt/ros/jazzy/opt/gz_transport_vendor/lib/python:/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python:/opt/ros/jazzy/opt/gz_math_vendor/lib/python:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'WSLENV': ''}), 'shell': False}
+[1.723407] (-) TimerEvent: {}
+[1.823974] (-) TimerEvent: {}
+[1.924431] (-) TimerEvent: {}
+[2.024924] (-) TimerEvent: {}
+[2.125476] (-) TimerEvent: {}
+[2.225977] (-) TimerEvent: {}
+[2.326463] (-) TimerEvent: {}
+[2.426913] (-) TimerEvent: {}
+[2.460220] (atlas_person_2) StdoutLine: {'line': b'running egg_info\n'}
+[2.485783] (atlas_person_2) StdoutLine: {'line': b'writing ../build/atlas_person_2/atlas_person_2.egg-info/PKG-INFO\n'}
+[2.519804] (atlas_person_2) StdoutLine: {'line': b'writing dependency_links to ../build/atlas_person_2/atlas_person_2.egg-info/dependency_links.txt\n'}
+[2.527005] (-) TimerEvent: {}
+[2.528762] (atlas_person_2) StdoutLine: {'line': b'writing entry points to ../build/atlas_person_2/atlas_person_2.egg-info/entry_points.txt\n'}
+[2.536146] (atlas_person_2) StdoutLine: {'line': b'writing requirements to ../build/atlas_person_2/atlas_person_2.egg-info/requires.txt\n'}
+[2.549079] (atlas_person_2) StdoutLine: {'line': b'writing top-level names to ../build/atlas_person_2/atlas_person_2.egg-info/top_level.txt\n'}
+[2.627111] (-) TimerEvent: {}
+[2.676886] (atlas_person_2) StdoutLine: {'line': b"reading manifest file '../build/atlas_person_2/atlas_person_2.egg-info/SOURCES.txt'\n"}
+[2.727209] (-) TimerEvent: {}
+[2.794931] (atlas_person_2) StdoutLine: {'line': b"writing manifest file '../build/atlas_person_2/atlas_person_2.egg-info/SOURCES.txt'\n"}
+[2.800446] (atlas_person_2) StdoutLine: {'line': b'running build\n'}
+[2.802089] (atlas_person_2) StdoutLine: {'line': b'running build_py\n'}
+[2.827278] (-) TimerEvent: {}
+[2.898074] (atlas_person_2) StdoutLine: {'line': b'running install\n'}
+[2.906746] (atlas_person_2) StdoutLine: {'line': b'running install_lib\n'}
+[2.927338] (-) TimerEvent: {}
+[3.027724] (-) TimerEvent: {}
+[3.128174] (-) TimerEvent: {}
+[3.170100] (atlas_person_2) StdoutLine: {'line': b'running install_data\n'}
+[3.228274] (-) TimerEvent: {}
+[3.330561] (-) TimerEvent: {}
+[3.429786] (atlas_person_2) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.431308] (-) TimerEvent: {}
+[3.464450] (atlas_person_2) StdoutLine: {'line': b"removing '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages/atlas_person_2-0.1.0-py3.12.egg-info' (and everything under it)\n"}
+[3.531435] (-) TimerEvent: {}
+[3.538880] (atlas_person_2) StdoutLine: {'line': b'Copying ../build/atlas_person_2/atlas_person_2.egg-info to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/python3.12/site-packages/atlas_person_2-0.1.0-py3.12.egg-info\n'}
+[3.631561] (-) TimerEvent: {}
+[3.731958] (-) TimerEvent: {}
+[3.831629] (atlas_person_2) StdoutLine: {'line': b'running install_scripts\n'}
+[3.832875] (-) TimerEvent: {}
+[3.933287] (-) TimerEvent: {}
+[4.033700] (-) TimerEvent: {}
+[4.098553] (atlas_person_2) StdoutLine: {'line': b'Installing dynamic_obstacle script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2\n'}
+[4.133789] (-) TimerEvent: {}
+[4.151806] (atlas_person_2) StdoutLine: {'line': b'Installing mission_2_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2\n'}
+[4.177458] (atlas_person_2) StdoutLine: {'line': b'Installing mission_3_goal script to /mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/install/atlas_person_2/lib/atlas_person_2\n'}
+[4.202087] (atlas_person_2) StdoutLine: {'line': b"writing list of installed files to '/mnt/c/Users/drash/ATLAS_AIR/ATLAS/Scenario 2 and 3/build/atlas_person_2/install.log'\n"}
+[4.230177] (atlas_person_2) CommandEnded: {'returncode': 0}
+[4.233880] (-) TimerEvent: {}
+[4.334332] (-) TimerEvent: {}
+[4.434802] (-) TimerEvent: {}
+[4.535150] (-) TimerEvent: {}
+[4.635766] (-) TimerEvent: {}
+[4.736485] (-) TimerEvent: {}
+[4.746272] (atlas_person_2) JobEnded: {'identifier': 'atlas_person_2', 'rc': 0}
+[4.761490] (-) EventReactorShutdown: {}
